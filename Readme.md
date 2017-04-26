@@ -17,7 +17,9 @@ Qian Chen, Xiaodan Zhu, Zhenhua Ling, Si Wei, Hui Jiang, Diana Inkpen. To appear
 }
 ```
 Homepage of the Qian Chen, http://home.ustc.edu.cn/~cq1231/
-The code is modified from [GitHub - nyu-dl/dl4mt-tutorial](https://github.com/nyu-dl/dl4mt-tutorial/)
+
+The code is modified from [GitHub - nyu-dl/dl4mt-tutorial](https://github.com/nyu-dl/dl4mt-tutorial/).
+
 The code for tree-LSTM version will be release soon.
 
 ## Dependencies
