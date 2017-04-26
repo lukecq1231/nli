@@ -9,9 +9,7 @@ Qian Chen, Xiaodan Zhu, Zhenhua Ling, Si Wei, Hui Jiang, Diana Inkpen. To appear
 @InProceedings{Chen-Qian:2017:ACL,
   author    = {Chen, Qian and Zhu, Xiaodan and Ling, Zhenhua and Wei, Si and Jiang, Hui and Inkpen, Diana},
   title     = {Enhanced LSTM for Natural Language Inference},
-  booktitle = {Proceedings of the 55th Annual
-Meeting of the Association for Computational
-Linguistics (ACL 2017)},
+  booktitle = {Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (ACL 2017)},
   month     = {July},
   year      = {2017},
   address   = {Vancouver},
