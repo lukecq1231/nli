@@ -20,7 +20,7 @@ Homepage of the Qian Chen, http://home.ustc.edu.cn/~cq1231/
 
 The code is modified from [GitHub - nyu-dl/dl4mt-tutorial](https://github.com/nyu-dl/dl4mt-tutorial/).
 
-The code for tree-LSTM version will be release soon.
+The code for tree-LSTM version will be released soon.
 
 ## Dependencies
 To run it perfectly, you will need:
