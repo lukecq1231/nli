@@ -3,7 +3,7 @@ Source code for "Enhanced LSTM for Natural Language Inference" runnable on GPU a
 If you use this code as part of any published research, please acknowledge the following paper.
 
 **"Enhanced LSTM for Natural Language Inference"**
-Qian Chen, Xiaodan Zhu, Zhenhua Ling, Si Wei, Hui Jiang, Diana Inkpen. To appear in _ACL (2017)_ 
+Qian Chen, Xiaodan Zhu, Zhenhua Ling, Si Wei, Hui Jiang, Diana Inkpen. _ACL (2017)_ 
 
 ```
 @InProceedings{Chen-Qian:2017:ACL,
@@ -20,7 +20,7 @@ Homepage of the Qian Chen, http://home.ustc.edu.cn/~cq1231/
 
 The code is modified from [GitHub - nyu-dl/dl4mt-tutorial](https://github.com/nyu-dl/dl4mt-tutorial/).
 
-The code for tree-LSTM version will be released soon.
+The code for tree-LSTM version has been released. Tree-LSTM part is modified from [GitHub - dallascard/TreeLSTM](https://github.com/dallascard/TreeLSTM), but support minibatches.
 
 ## Dependencies
 To run it perfectly, you will need:
@@ -34,9 +34,14 @@ cd data
 bash fetch_and_preprocess.sh
 ```
 
-2. Train and test model
+2. Train and test model for ESIM
 ```
-cd scripts
+cd scripts/ESIM/
+bash train.sh
+```
+3. Train and test model for TreeLSTM-IM
+```
+cd scripts/TreeLSTM-IM/
 bash train.sh
 ```
 
